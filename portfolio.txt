@@ -1,3 +1,5 @@
 Here is my new website
 
-Welcome, isn't it great
+Welcome, isn't it great.
+
+Here's a new line.
